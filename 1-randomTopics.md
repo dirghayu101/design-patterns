@@ -1,0 +1,2 @@
+- Functional Reactive Programming - https://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming
+- Functional Relational Programming - https://medium.com/@cell.lang.dev/why-functional-relational-programming-is-sometimes-faster-than-oop-part-1-302da4181274

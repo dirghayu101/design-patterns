@@ -1,0 +1,1 @@
+1. https://cloudaffle.com/series/intro -> Typescript design pattern's official course website.
